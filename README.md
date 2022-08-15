@@ -1,4 +1,4 @@
-# Solved Bandit - Over The Wire level 0 - 15 with pwntools 
+# Bandit - Over The Wire
 
 ## Usage
 ```
